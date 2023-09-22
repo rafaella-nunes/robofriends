@@ -1,1 +1,3 @@
-# react-learning
+# Robofriends
+
+#### Training react and APIs
